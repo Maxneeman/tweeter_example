@@ -1,0 +1,15 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.tweets{
+    margin: 0px;
+    padding: 4px;
+    height: auto;
+    width: 45%;
+    line-height: 2px;
+    box-sizing: border-box;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
